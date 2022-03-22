@@ -1,0 +1,2 @@
+## IAM Policies Examples
+ **DenyAllOutsideRequestedRegions** - This example policy shows how you might create an identity-based policy or service control policy that denies access to any actions outside the Regions specified using aws:RequestedRegion, except for actions in the services specified using NotAction. 
